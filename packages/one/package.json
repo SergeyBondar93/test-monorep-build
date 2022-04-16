@@ -2,7 +2,8 @@
   "name": "@test-monorep-sb/one",
   "version": "1.0.6",
   "description": "",
-  "main": "src/index.js",
+  "main": "dist/index.js",
+  "browser": "dist/index.js",
   "scripts": {
     "build": "npx tsdx build --entry src/index.ts"
   },
