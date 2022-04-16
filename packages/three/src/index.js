@@ -1,5 +1,5 @@
 const version = "1.0.0";
 
-const threeFn = () => {
+export const threeFn = () => {
   return 'this is from package three ' + version
 }
