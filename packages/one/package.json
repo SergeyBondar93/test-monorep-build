@@ -7,7 +7,7 @@
     "build": "npx tsdx build --entry src/index.ts"
   },
   "files": [
-    "./dist/*"
+    "dist/*"
   ],
   "keywords": [],
   "author": "",
