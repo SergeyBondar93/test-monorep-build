@@ -1,12 +1,14 @@
 {
   "name": "@test-monorep-sb/two",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "",
   "main": "src/index.js",
   "scripts": {
     "build": "npx tsdx build --entry src/index.ts"
   },
-  "files": ["dist"],
+  "files": [
+    "dist"
+  ],
   "keywords": [],
   "author": "",
   "license": "ISC",
