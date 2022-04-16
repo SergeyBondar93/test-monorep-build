@@ -2,6 +2,7 @@
   "packages": [
     "packages/*"
   ],
+  "verifyAccess": false, 
   "npmClient": "yarn",
   "version": "1.0.1"
 }
