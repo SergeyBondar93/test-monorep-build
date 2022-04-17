@@ -5,7 +5,8 @@
   "main": "index.js",
   "private": true,
   "scripts": {
-    "build": "npx lerna run build"
+    "build": "npx lerna run build",
+    "publish": "npx lerna publish patch --yes"
   },
   "workspaces": [
     "packages/*"
