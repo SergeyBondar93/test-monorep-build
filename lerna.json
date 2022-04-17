@@ -2,7 +2,7 @@
   "packages": [
     "packages/*"
   ],
+  "independent": true,
   "verifyAccess": false,
-  "npmClient": "yarn",
-  "version": "1.0.10"
+  "npmClient": "yarn"
 }
